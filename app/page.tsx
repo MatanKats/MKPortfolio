@@ -7,11 +7,13 @@ export default function Home() {
             Matan Katsnelson
           </h1>
           <h2 className="max-w-2xl text-2xl font-semibold leading-relaxed text-zinc-700 dark:text-zinc-300 sm:text-3xl">
-            Full-stack developer and Python developer. Graduated with honors with a bachelor's degree in computer science
+            Full-stack developer and Python developer. Graduated with honors
+            with a bachelor&apos;s degree in computer science
           </h2>
           <p className="max-w-2xl text-lg leading-8 text-zinc-600 dark:text-zinc-400 sm:text-xl">
-            Proficient in full-stack web development with expertise in Python, modern JavaScript frameworks, 
-            database design, RESTful APIs, and cloud technologies. Experienced in building scalable applications 
+            Proficient in full-stack web development with expertise in Python,
+            modern JavaScript frameworks, database design, RESTful APIs, and
+            cloud technologies. Experienced in building scalable applications
             and delivering clean, efficient code solutions.
           </p>
         </div>

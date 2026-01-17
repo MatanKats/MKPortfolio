@@ -14,7 +14,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Matan Katsnelson - Portfolio",
-  description: "Portfolio of Matan Katsnelson - Full-stack developer and Python developer",
+  description:
+    "Portfolio of Matan Katsnelson - Full-stack developer and Python developer",
 };
 
 export default function RootLayout({
